@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://Joao-Paulo-Martins">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Martinso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Martins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo-Martins&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
